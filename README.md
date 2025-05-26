@@ -50,10 +50,3 @@ The fine-tuned model demonstrates strong performance on synthetic real estate QA
 * [BERTScore Paper](https://arxiv.org/abs/1904.09675)
 * [Synthetic Data Generation for NLP](https://arxiv.org/abs/2107.07430)
 
-
-```
-
----
-
-If you want me to help generate a **requirements.txt** or a license file too, just ask!
-```
